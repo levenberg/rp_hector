@@ -25,4 +25,4 @@ rosbag play yourbag.bag  --clock
 
 `yourbag.bag`should include `/scan` and `\tf` topics.
 
-![example](https://github.com/levenberg/rp_hector/src/hector_slam/hector_geotiff/maps/hector_slam_map.tif)
+![example](https://github.com/levenberg/rp_hector/src/hector_slam/hector_geotiff/hector_slam_map.tif)
